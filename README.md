@@ -1,4 +1,9 @@
+> [!IMPORTANT]  
+> This is just a mirror repository of [github.com/fmenat/SITS_S2Coverage](https://github.com/fmenat/SITS_S2Coverage)
+
 # SITS_S2Coverage
+ [![paper](https://img.shields.io/badge/arXiv-2406.18584-D12424)](https://www.arxiv.org/abs/2406.18584) 
+ 
 [Sentinel-2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) Coverage on Satellite Images Time Series (SITS).
 
 <img src="imgs/Sentinel2.jpg" alt= “” width="20%">  
